@@ -6,6 +6,9 @@ body {
   padding: 0;
   background-color: none
    }
+   #mosala{
+    color:red;
+   }
 
 .container {
   display: block;  
